@@ -1,4 +1,4 @@
-# Proyecto 7 — Análisis de Comportamiento de Clientes en ConnectaTel
+# Análisis de Comportamiento de Clientes en ConnectaTel
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imjesusgarcia/Student-Version-Project-ConnectaTel/blob/main/S7_Version-Estudiante-Project-ConnectaTel.ipynb)
 
